@@ -1,0 +1,8 @@
+numbers = ('2,3,4,5,6')
+print(numbers)
+variables = ("john")
+print(variables)
+vowels = ('a','e','i','o','u')
+print(vowels)
+alphebates =('a:apple')
+print(alphebates)
